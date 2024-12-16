@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "backend.jwt.secret",
+            "type": "java.lang.String",
+            "description": "A description for 'backend.jwt.secret'"
+        },
+        {
+            "name": "backend.jwt.expiration",
+            "type": "java.lang.Long",
+            "description": "A description for 'backend.jwt.expiration'"
+        },
+        {
+            "name": "backend.jwt.jwtRefreshExpirationMs",
+            "type": "java.lang.Long",
+            "description": "A description for 'backend.jwt.jwtRefreshExpirationMs'"
+        }
+    ]
+}
